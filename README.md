@@ -1,7 +1,10 @@
 # 💫 About Me:
-I'm currently working on my Project named Thikana.
-Currently, I'm learning Python and React.
-Studying BSCSE at United International University, Madani Ave, Dhaka, Bangladesh.
+- Hi, I'm Md Asif Mustoba Sazzad.
+- Studying BSCSE at United International University, Madani Ave, Dhaka, Bangladesh.
+- Currently, I'm learning Python and React.
+- I love Photography.
+- Hala Madrid!!
+
  
 
 # 💻 Tech Stack:
@@ -11,7 +14,7 @@ Studying BSCSE at United International University, Madani Ave, Dhaka, Bangladesh
 ![](https://nirzak-streak-stats.vercel.app/?user=Spectre07Siuuu&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Spectre07Siuuu&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️ A Random Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
